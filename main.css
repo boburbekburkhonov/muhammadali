@@ -90,7 +90,7 @@ div, p, h1, h2, h3, h4, h5, ul, li, a, span{
 }
 /*ABOUT*/
 #conteneur-about{
-  padding:100px 100px;
+  padding:30px 100px;
 }
 
 .about{
@@ -257,4 +257,12 @@ video {
     height: 700px !important;
   }
 
+}
+
+.list-books li a:hover {
+  opacity: 0.7;
+}
+
+.list-books li a:active {
+  opacity: 0.5;
 }
