@@ -259,6 +259,10 @@ video {
 
 }
 
+.list-books li a img {
+  border-radius: 20px;
+}
+
 .list-books li a:hover {
   opacity: 0.7;
 }
